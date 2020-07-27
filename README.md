@@ -1,6 +1,6 @@
 Hallo 👋 welcome to my github account.
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiatma)](https://github.com/adiatma/github-readme-stats)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiatma&layout=compact)](https://github.com/adiatma/github-readme-stats)
 
 **Blogs**:
 
