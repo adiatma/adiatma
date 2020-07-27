@@ -1,10 +1,9 @@
-## adiatma
+Hallo 👋 welcome to my github account.
 
-**Location**:
-- [Jakarta, Indonesia](https://id.wikipedia.org/wiki/Daerah_Khusus_Ibukota_Jakarta) 
-- [Palu, Sulawesi Tengah, Indonesia](https://id.wikipedia.org/wiki/Kota_Palu)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiatma)](https://github.com/adiatma/github-readme-stats)
 
 **Blogs**:
+
 - [Medium](https://medium.com/@adiatma9024)
 - [Blog](https://adiatma.github.io/)
 
