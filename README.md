@@ -1,4 +1,4 @@
-Hallo 👋 welcome to my github account.
+Holla, 😎 welcome to my github account.
 
 **Public registry**
 
@@ -8,6 +8,7 @@ Hallo 👋 welcome to my github account.
 **Blogs**:
 
 - [Medium](https://medium.com/@adiatma9024)
-- [Blog](https://adiatma.github.io/)
+- [adiatma.github.io](https://adiatma.github.io/)
+- [daycode.xyz](https://daycode.xyz)
 
 How to reach me [📩](mailto:adiatma9024@gmail.com)
