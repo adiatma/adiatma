@@ -9,6 +9,5 @@ Holla, 😎 welcome to my github account.
 
 - [Medium](https://medium.com/@adiatma9024)
 - [adiatma.github.io](https://adiatma.github.io/)
-- [daycode.xyz](https://daycode.xyz)
 
 How to reach me [📩](mailto:adiatma9024@gmail.com)
