@@ -1,14 +1,36 @@
-Holla, 😎 welcome to my github account.
+Hello, 😀 welcome to my github account 🚀
 
-**Public registry**
+> lorem ipsume sit amet dolor --
 
-- [npm - adiatma](https://www.npmjs.com/~adiatma)
-- [crates - adiatma](https://crates.io/users/adiatma)
+## About
 
-**Blogs**:
+```yaml
+name: Adiatma Kamarudin
+email: adiatma9024@gmail.com
+works:
+  - Warung Pintar (present)
+  - Ralali
+  - Ruang Guru
+  - PT Woolu Aksaramaya
+  - Balai Wilayah Sungai Sulwesi III
+locations:
+  - 🇮🇩  Palu, Sulawesi Tengah (present)
+  - 🇮🇩  Jakarta
+repositories:
+  - https://gitlab.com/adiatma9024 🕵️‍♀️
+blogs:
+  - https://adiatma.tech (WIP)
+  - https://dev.to/adiatma
+  - https://evilfactorylabs.org/adiatma
+  - https://adiatma.github.io
+  - https://medium.com/@adiatma9024
+public_registry:
+  - https://www.npmjs.com/~adiatma
+  - https://crates.io/users/adiatma
+```
 
-- [Medium](https://medium.com/@adiatma9024)
-- [adiatma.github.io](https://adiatma.github.io/)
-- [DEV](https://dev.to/adiatma)
+## Stats
 
-How to reach me [📩](mailto:adiatma9024@gmail.com)
+[![Adiatma's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiatma)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiatma)](https://github.com/anuraghazra/github-readme-stats)
