@@ -8,7 +8,7 @@ Hello, 😀 welcome to my github account 🚀
 name: Adiatma Kamarudin
 email: adiatma9024@gmail.com
 works:
-  - Warung Pintar (present)
+  - Warung Pintar
   - Ralali
   - Ruang Guru
   - PT Woolu Aksaramaya
