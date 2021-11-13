@@ -8,6 +8,7 @@ Hello, 😀 welcome to my github account 🚀
 name: Adiatma Kamarudin
 email: adiatma9024@gmail.com
 works:
+  - eFishery
   - Warung Pintar
   - Ralali
   - Ruang Guru
